@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+ <h1> L'Informatique</h1>
+  
+  Informe-toi sûrement de cette fiable science,
+
+  
+  
+  
+  Notre nourriture nette est cette science.
+
+  <br> <h2>Pour le paragraphe</h2>  <p>Force-toi d’en connaître et d’en prendre.
+Oriente-toi objectivement vers cette aisance.
+Réalise cette orientation sans plus attendre,
+  Maintenant afin d’être en évidence</p> 
+  <h3>Les caracteres speciaux</h3>
+  
+
+<span style="font-size: 32px; margin: 21px 0;">Autrement tu obstrues ton devenir en maturation</span
+  <br><p> <il> Voila pour une chaine ordonné</il> 
+  <ul>
+  <il>math</il> 
+  <li>science</li>
+  <li>language</li>
+  <li>logique</li>
+    <li>exercice</li>
+  </ul>
+  <strog> Ce texte est en gras </strong>
+  
+  
+  </br>
+  
+  
+  </P>
+   </br>
+  
+  
+  
+</html>
